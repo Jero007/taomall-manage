@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="taomall-web:war">
+    <output-path>$PROJECT_DIR$/taomall-web/target</output-path>
+    <root id="archive" name="taomall-web.war">
+      <element id="artifact" artifact-name="taomall-web:war exploded" />
+    </root>
+  </artifact>
+</component>

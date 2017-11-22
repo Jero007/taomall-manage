@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/taomall-manage.iml" filepath="$PROJECT_DIR$/taomall-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taomall-mapper/taomall-mapper.iml" filepath="$PROJECT_DIR$/taomall-mapper/taomall-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taomall-pojo/taomall-pojo.iml" filepath="$PROJECT_DIR$/taomall-pojo/taomall-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taomall-service/taomall-service.iml" filepath="$PROJECT_DIR$/taomall-service/taomall-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taomall-web/taomall-web.iml" filepath="$PROJECT_DIR$/taomall-web/taomall-web.iml" />
+    </modules>
+  </component>
+</project>

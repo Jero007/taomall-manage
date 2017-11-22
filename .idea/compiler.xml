@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="taomall-mapper" />
+        <module name="taomall-pojo" />
+        <module name="taomall-service" />
+        <module name="taomall-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="taomall-manage" target="1.7" />
+      <module name="taomall-mapper" target="1.7" />
+      <module name="taomall-pojo" target="1.7" />
+      <module name="taomall-service" target="1.7" />
+      <module name="taomall-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
